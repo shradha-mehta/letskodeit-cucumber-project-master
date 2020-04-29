@@ -1,0 +1,426 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 14606072700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "User should navigate to login page successfully",
+        "description": "",
+        "id": "login-functionality;user-should-navigate-to-login-page-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 690243300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 89125400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on letskodeit homepage",
+            "match": {
+              "location": "SignUpTestSteps.iAmOnLetskodeitHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 119181300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on login link",
+            "match": {
+              "location": "LoginTestSteps.iClickOnLoginLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2989595100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should navigate to login page successfully",
+            "match": {
+              "location": "LoginTestSteps.iShouldNavigateToLoginPageSuccessfully()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 15342831500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 9,
+        "name": "User should login successfully with valid credentials",
+        "description": "",
+        "id": "login-functionality;user-should-login-successfully-with-valid-credentials",
+        "after": [
+          {
+            "result": {
+              "duration": 698938900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 12700,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I am on letskodeit homepage",
+            "match": {
+              "location": "SignUpTestSteps.iAmOnLetskodeitHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 134120800,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click on login link",
+            "match": {
+              "location": "LoginTestSteps.iClickOnLoginLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3243918700,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I enter email \"jiyapandya@gmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "jiyapandya@gmail.com",
+                  "offset": 15
+                }
+              ],
+              "location": "SignUpTestSteps.iEnterEmail(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 92202800,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I enter password \"Rahi0804\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Rahi0804",
+                  "offset": 18
+                }
+              ],
+              "location": "SignUpTestSteps.iEnterPassword(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 18000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I click on login button",
+            "match": {
+              "location": "LoginTestSteps.iClickOnLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 50800,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I should login successfully",
+            "match": {
+              "location": "LoginTestSteps.iShouldLoginSuccessfully()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Login functionality",
+    "description": "As a User I want to login into letskodeit website",
+    "id": "login-functionality",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/learn/letskodeit/resources/featurefile/login.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 14294965600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "User should navigate to sign up page successfully",
+        "description": "",
+        "id": "signup-functionality;user-should-navigate-to-sign-up-page-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 693876600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 16000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on letskodeit homepage",
+            "match": {
+              "location": "SignUpTestSteps.iAmOnLetskodeitHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 116016100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on signup link",
+            "match": {
+              "location": "SignUpTestSteps.iClickOnSignupLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3133902300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should navigate to signup page successfully",
+            "match": {
+              "location": "SignUpTestSteps.iShouldNavigateToSignupPageSuccessfully()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 15319085300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 9,
+        "name": "User should signup successfully with valid credentials",
+        "description": "",
+        "id": "signup-functionality;user-should-signup-successfully-with-valid-credentials",
+        "after": [
+          {
+            "result": {
+              "duration": 729585900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 34200,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I am on letskodeit homepage",
+            "match": {
+              "location": "SignUpTestSteps.iAmOnLetskodeitHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 136873400,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click on signup link",
+            "match": {
+              "location": "SignUpTestSteps.iClickOnSignupLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3596625400,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I enter fullname \"Jiya Pandya\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Jiya Pandya",
+                  "offset": 18
+                }
+              ],
+              "location": "SignUpTestSteps.iEnterFullname(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 151707400,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I enter email \"jiyapandya@gmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "jiyapandya@gmail.com",
+                  "offset": 15
+                }
+              ],
+              "location": "SignUpTestSteps.iEnterEmail(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 102846600,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I enter password \"Rahi0804\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Rahi0804",
+                  "offset": 18
+                }
+              ],
+              "location": "SignUpTestSteps.iEnterPassword(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 106664500,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I enter conform password \"Rahi0804\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Rahi0804",
+                  "offset": 26
+                }
+              ],
+              "location": "SignUpTestSteps.iEnterConformPassword(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 87843300,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I click on Privacy policy button",
+            "match": {
+              "location": "SignUpTestSteps.iClickOnPrivacyPolicyButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5386908900,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I click on signup button",
+            "match": {
+              "location": "SignUpTestSteps.iClickOnSignupButton()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "signUp functionality",
+    "description": "As a User I want to sign up into letskodeit website",
+    "id": "signup-functionality",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/learn/letskodeit/resources/featurefile/signup.feature"
+  }
+]

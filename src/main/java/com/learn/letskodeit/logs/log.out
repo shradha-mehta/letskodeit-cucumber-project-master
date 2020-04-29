@@ -1,0 +1,37 @@
+2020-04-26 17:04:824 INFO  BrowserSelector :27 - Launching Chrome Browser
+2020-04-26 17:04:625 INFO  HomePage :43 - Clicking On sign up link : [[ChromeDriver: chrome on WINDOWS (7b93f4c33a3b9063ec43933292ffdde6)] -> id: header-sign-up-btn]
+2020-04-26 17:04:124 INFO  SignUpPage :39 - Getting text from : [[ChromeDriver: chrome on WINDOWS (7b93f4c33a3b9063ec43933292ffdde6)] -> xpath: //h1[contains(text(),"Sign Up to Let's Kode It")]]
+2020-04-26 17:04:693 INFO  BrowserSelector :27 - Launching Chrome Browser
+2020-04-26 17:04:112 INFO  HomePage :43 - Clicking On sign up link : [[ChromeDriver: chrome on WINDOWS (1f0f9cd9161ba3d4ea9c2a2ecc3307cd)] -> id: header-sign-up-btn]
+2020-04-26 17:04:305 INFO  SignUpPage :39 - Getting text from : [[ChromeDriver: chrome on WINDOWS (1f0f9cd9161ba3d4ea9c2a2ecc3307cd)] -> xpath: //h1[contains(text(),"Sign Up to Let's Kode It")]]
+2020-04-26 17:04:101 INFO  BrowserSelector :27 - Launching Chrome Browser
+2020-04-26 17:04:240 INFO  HomePage :43 - Clicking On sign up link : [[ChromeDriver: chrome on WINDOWS (d30360fcdc55ca8916d482e5154bc27f)] -> id: header-sign-up-btn]
+2020-04-26 17:04:360 INFO  SignUpPage :47 - Entering Full Name : Jiya Pandya full name field[[ChromeDriver: chrome on WINDOWS (d30360fcdc55ca8916d482e5154bc27f)] -> xpath: //input[@id='user_name']]
+2020-04-26 17:04:658 INFO  SignUpPage :53 - Entering emailId : jiyapandya@gmail.comin the emailId field[[ChromeDriver: chrome on WINDOWS (d30360fcdc55ca8916d482e5154bc27f)] -> xpath: //input[@id='user_email']]
+2020-04-26 17:04:925 INFO  SignUpPage :59 - Entering password : Rahi0804in the password field[[ChromeDriver: chrome on WINDOWS (d30360fcdc55ca8916d482e5154bc27f)] -> xpath: //input[@id='user_password']]
+2020-04-26 17:04:177 INFO  SignUpPage :64 - Entering conformpassword: Rahi0804in the conformpassword field[[ChromeDriver: chrome on WINDOWS (d30360fcdc55ca8916d482e5154bc27f)] -> xpath: //input[@id='user_password_confirmation']]
+2020-04-26 18:04:743 INFO  BrowserSelector :27 - Launching Chrome Browser
+2020-04-26 18:04:445 INFO  BrowserSelector :27 - Launching Chrome Browser
+2020-04-26 18:04:541 INFO  BrowserSelector :27 - Launching Chrome Browser
+2020-04-26 18:04:194 INFO  HomePage :36 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (18202aa96ffab221405133e810b07b00)] -> xpath: //a[@class='navbar-link fedora-navbar-link']]
+2020-04-26 18:04:256 INFO  LoginPage :30 - Getting text from : [[ChromeDriver: chrome on WINDOWS (18202aa96ffab221405133e810b07b00)] -> xpath: //h1[@class='text-center']]
+2020-04-26 18:04:36 INFO  BrowserSelector :27 - Launching Chrome Browser
+2020-04-26 18:04:650 INFO  HomePage :36 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (c34a07db8e4576a44b87fa37fc66586a)] -> xpath: //a[@class='navbar-link fedora-navbar-link']]
+2020-04-26 18:04:463 INFO  SignUpPage :53 - Entering emailId : jiyapandya@gmail.comin the emailId field[[ChromeDriver: chrome on WINDOWS (c34a07db8e4576a44b87fa37fc66586a)] -> xpath: //input[@id='user_email']]
+2020-04-26 18:04:697 INFO  SignUpPage :59 - Entering password : Rahi0804n the password field[[ChromeDriver: chrome on WINDOWS (c34a07db8e4576a44b87fa37fc66586a)] -> xpath: //input[@id='user_password']]
+2020-04-28 21:04:449 INFO  BrowserSelector :25 - Launching Chrome Browser
+2020-04-28 21:04:293 INFO  HomePage :34 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (aec23aa8f423d91b9a184890e6d89399)] -> xpath: //a[@class='navbar-link fedora-navbar-link']]
+2020-04-28 21:04:255 INFO  LoginPage :28 - Getting text from : [[ChromeDriver: chrome on WINDOWS (aec23aa8f423d91b9a184890e6d89399)] -> xpath: //h1[@class='text-center']]
+2020-04-28 21:04:982 INFO  BrowserSelector :25 - Launching Chrome Browser
+2020-04-28 21:04:459 INFO  HomePage :34 - Clicking on login link [[ChromeDriver: chrome on WINDOWS (f6cb8e0459d656e8709a41a02fd1953d)] -> xpath: //a[@class='navbar-link fedora-navbar-link']]
+2020-04-28 21:04:706 INFO  SignUpPage :51 - Entering emailId : jiyapandya@gmail.comin the emailId field[[ChromeDriver: chrome on WINDOWS (f6cb8e0459d656e8709a41a02fd1953d)] -> xpath: //input[@id='user_email']]
+2020-04-28 21:04:801 INFO  SignUpPage :57 - Entering password : Rahi0804in the password field[[ChromeDriver: chrome on WINDOWS (f6cb8e0459d656e8709a41a02fd1953d)] -> xpath: //input[@id='user_password']]
+2020-04-28 21:04:509 INFO  BrowserSelector :25 - Launching Chrome Browser
+2020-04-28 21:04:920 INFO  HomePage :41 - Clicking On sign up link : [[ChromeDriver: chrome on WINDOWS (5a92822b7c05aaca18b5b4c0e5168125)] -> id: header-sign-up-btn]
+2020-04-28 21:04:31 INFO  SignUpPage :37 - Getting text from : [[ChromeDriver: chrome on WINDOWS (5a92822b7c05aaca18b5b4c0e5168125)] -> xpath: //h1[contains(text(),"Sign Up to Let's Kode It")]]
+2020-04-28 21:04:756 INFO  BrowserSelector :25 - Launching Chrome Browser
+2020-04-28 21:04:214 INFO  HomePage :41 - Clicking On sign up link : [[ChromeDriver: chrome on WINDOWS (4b114937febb38952b07591f4735dc10)] -> id: header-sign-up-btn]
+2020-04-28 21:04:814 INFO  SignUpPage :45 - Entering Full Name : Jiya Pandyain full name field[[ChromeDriver: chrome on WINDOWS (4b114937febb38952b07591f4735dc10)] -> xpath: //input[@id='user_name']]
+2020-04-28 21:04:967 INFO  SignUpPage :51 - Entering emailId : jiyapandya@gmail.comin the emailId field[[ChromeDriver: chrome on WINDOWS (4b114937febb38952b07591f4735dc10)] -> xpath: //input[@id='user_email']]
+2020-04-28 21:04:71 INFO  SignUpPage :57 - Entering password : Rahi0804in the password field[[ChromeDriver: chrome on WINDOWS (4b114937febb38952b07591f4735dc10)] -> xpath: //input[@id='user_password']]
+2020-04-28 21:04:179 INFO  SignUpPage :62 - Entering conformpassword: Rahi0804in the conformpassword field[[ChromeDriver: chrome on WINDOWS (4b114937febb38952b07591f4735dc10)] -> xpath: //input[@id='user_password_confirmation']]
